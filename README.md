@@ -7,7 +7,7 @@ Jednoducha Angular 2 app s prihlasenim
 ## Usage
 ---
 
-1.  Install the backend related requirements and run. The following will start a flask-server on `localhost:8080`
+1.  Install
 
     ```bash
     cd backend
