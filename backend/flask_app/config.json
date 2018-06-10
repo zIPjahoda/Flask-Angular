@@ -1,0 +1,4 @@
+{
+  "SQLALCHEMY_DATABASE_URI": "mysql+pymysql://kokot@localhost:3307/cryptofund",
+  "SQLALCHEMY_TRACK_MODIFICATIONS": "True"
+}
